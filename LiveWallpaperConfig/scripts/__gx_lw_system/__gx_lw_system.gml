@@ -8,8 +8,8 @@
 show_debug_message($"LiveWallpaperConfig | Copyright (C) 2023 FoxyOfJungle");
 
 
-/// @desc Function Description
-/// @param {Array} sections_array Description
+/// @desc Creates a class responsible for creating the Live Wallpaper configuration UI.
+/// @param {Array} sections_array The list of sections.
 /// @param {Function} callback The callback to be executed when returning data from the Opera GX browser
 function WallpaperConfiguration(sections_array, callback=undefined) constructor {
 	data_array = []; // array with sections
