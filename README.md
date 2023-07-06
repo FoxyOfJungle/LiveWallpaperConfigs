@@ -3,7 +3,7 @@
 
 This class allows you to easily create settings for Opera GX live wallpapers.
 
-![image](https://github.com/FoxyOfJungle/LiveWallpaperConfigs/assets/52144406/1b3c23d6-c70b-44fd-a39e-d2df10a5ee41)
+![image](https://github.com/FoxyOfJungle/LiveWallpaperConfigs/assets/52144406/31fdfc48-acb3-419c-91bd-b53313de632f)
 
 
 ## Installation
