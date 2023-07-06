@@ -1,0 +1,10 @@
+{
+  "FolderOrderSettings": [
+    {"name":"KazanGames","order":16,"path":"folders/KazanGames.yy",},
+    {"name":"LiveWallpaperConfig","order":1,"path":"folders/KazanGames/LiveWallpaperConfig.yy",},
+    {"name":"Example","order":17,"path":"folders/Example.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"Room1","order":1,"path":"rooms/Room1/Room1.yy",},
+  ],
+}
