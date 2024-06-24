@@ -12,8 +12,8 @@ lw_config = new WallpaperConfiguration([
 	]),
 	new WP_Section("Appearance", "appearance", [
 		new WP_OptionSelect("Scale Mode:", "scale", ["Scale", "Stretch"], "Scale", "Determines the type of wallpaper scale"),
-		new WP_OptionRange("Stuff", "stuff", 100, 50, 5000, 10),
-		new WP_OptionColor("Color", "color", c_white),
+		new WP_OptionRange("Stuff", "stuff", 100, 50, 5000, 10, "Description range"),
+		new WP_OptionColor("Color", "color", c_white, "Description color"),
 	]),
 ],
 

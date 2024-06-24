@@ -1,10 +1,11 @@
 {
-  "FolderOrderSettings": [
+  "FolderOrderSettings":[
     {"name":"Example","order":17,"path":"folders/Example.yy",},
     {"name":"KazanGames","order":16,"path":"folders/KazanGames.yy",},
     {"name":"LiveWallpaperConfig","order":1,"path":"folders/KazanGames/LiveWallpaperConfig.yy",},
   ],
-  "ResourceOrderSettings": [
-    {"name":"Room1","order":1,"path":"rooms/Room1/Room1.yy",},
+  "ResourceOrderSettings":[
+    {"name":"rmMain","order":1,"path":"rooms/rmMain/rmMain.yy",},
+    {"name":"__lwc_SysMetrics","order":1,"path":"scripts/__lwc_SysMetrics/__lwc_SysMetrics.yy",},
   ],
 }
